@@ -14,7 +14,7 @@ echo "<br>";
             $k=$i*$j;
             echo $k." ";
         }
-        echo "";
+        
         echo "<br>";
     }
 	
